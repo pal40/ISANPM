@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+portfolio_manager.db
+streamlit_app.pid
+streamlit.log
+.DS_Store
